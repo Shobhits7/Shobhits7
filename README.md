@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shobhit/Rolex</h1>
+### Hey there, I'm Shobhit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="www.linkedin.com/in/shobhitjain09/">
+  <img align="left" alt="Shobhit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="shobhit@vedaantam.com"><img align="left" alt="Shobhit's MailID" width="72px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+
+<br>
 <h3 align="center">A passionate discord developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat" alt="shobhits7" /> </p>
