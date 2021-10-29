@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Oi Bot](https://oibot.ga/)
 
-- 🌱 I’m currently learning **Python, JavaScript, Java**
+- 🌱 I’m currently learning **Python, C, C++**
 
 - 👯 I’m looking to collaborate on Oi Project (Private Repo)
 
