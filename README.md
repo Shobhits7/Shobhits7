@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Python/C/C++ and discord developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat" alt="shobhits7" /> </p>
-
+<p align="left"> <img src="https://discord.c99.nl/widget/theme-2/531179463673774080.png" alt="ROLEX discord" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhits7" alt="shobhits7" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://www.shobhit.ga)
