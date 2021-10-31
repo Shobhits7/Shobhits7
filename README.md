@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhits7" alt="shobhits7" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://www.shobhi.ga)
+- 🔭 I’m currently working on [Portfolio](https://www.shobhit.ga)
 
 - 🌱 I’m currently learning **React.js, javascript**
 
