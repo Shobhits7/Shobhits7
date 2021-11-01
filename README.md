@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://www.shobhit.ga)
 
-- 🌱 I’m currently learning **React.js, javascript**
+- 🌱 I’m currently learning **HTML, CSS, javascript**
 
 - 👯 I’m looking to collaborate on [Portfolio Git](https://github.com/Shobhits7/portfolio)
 
