@@ -1,4 +1,4 @@
-### Hey there, I'm Shobhit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm Shobhit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 <h3 align="center">A passionate Python/C/C++ and discord developer from India</h3>
 
