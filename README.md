@@ -6,14 +6,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhits7" alt="shobhits7" /></a> </p>
 <p align="center"> 
-- 🔭 I’m currently working on [Portfolio](https://www.shobhitjain.live)
-
+- 🔭 I’m currently working on https://www.shobhitjain.live
+<p align="center">
 - 🌱 I’m currently learning **HTML, CSS, javascript**
-
-- 👨‍💻 All of my projects are available at [https://shobhitjain.live](https://shobhitjain.live)
-
+<p align="center">
+- 👨‍💻 All of my projects are available at https://www.shobhitjain.live
+<p align="center">
 - 💬 Ask me about **Python, Discord.py**
-
+<p align="center">
 - 📫 How to reach me **shobjain09@gmail.com**
 </p>
 
