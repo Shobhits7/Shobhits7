@@ -31,6 +31,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhits7&langs_count=8&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhits7&" alt="shobhits7" /></p>
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shobhits7&repo=shobhits7&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhits7&theme=dark" alt="shobhits7" /></p>
