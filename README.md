@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhits7" alt="shobhits7" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://www.shobhit.ga)
+- 🔭 I’m currently working on [Portfolio](https://www.shobhitjain.live)
 
 - 🌱 I’m currently learning **HTML, CSS, javascript**
 
-- 👯 I’m looking to collaborate on [Portfolio Git](https://github.com/Shobhits7/portfolio)
-
-- 👨‍💻 All of my projects are available at [https://www.shobhit.ga](https://www.shobhit.ga)
+- 👨‍💻 All of my projects are available at [https://shobhitjain.live](https://shobhitjain.live)
 
 - 💬 Ask me about **Python, Discord.py**
 
