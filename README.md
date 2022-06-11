@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat" alt="shobhits7" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhits7" alt="shobhits7" /></a> </p>
-
+<p align="center"> 
 - 🔭 I’m currently working on [Portfolio](https://www.shobhitjain.live)
 
 - 🌱 I’m currently learning **HTML, CSS, javascript**
@@ -15,6 +15,7 @@
 - 💬 Ask me about **Python, Discord.py**
 
 - 📫 How to reach me **shobjain09@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
