@@ -28,6 +28,6 @@
 
 ![Shobhit's Github stats](https://github-readme-stats.vercel.app/api?username=shobhits7&show_icons=true&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhits7&show_icons=true&locale=en&layout=compact" alt="shobhits7" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhits7&langs_count=8&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhits7&" alt="shobhits7" /></p>
