@@ -1,10 +1,9 @@
-<h1 align="center"> Hey there, I'm Shobhit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12"><h1>
+<h1 align="center"> Hey there, I'm Shobhit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"><h1>
 
 <h3 align="center">A passionate Python/C/C++ and discord developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhits7" alt="shobhits7" /></a> </p>
 <p align="center"> 
 - 🔭 I’m currently working on https://www.shobhitjain.live
 <p align="center">
@@ -37,7 +36,7 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <img src="https://raw.githubusercontent.com/Shobhits7/Shobhits7/db3f212050b9aac185b8a986162e8a1171bd384f/github-user-contribution.svg" width="100%">  
   
-  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhits7" alt="shobhits7" /></a> </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
