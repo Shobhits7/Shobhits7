@@ -28,10 +28,18 @@
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shobhits7&show_icons=true&theme=merko">
- 
+
+<p align="center">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=ShobhitS7&theme=vue-dark&work=work">
+
+<p align="center">  
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=ShobhitS7&theme=vue-dark&layout=compact&work=yesyeshello">  
+  
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<img src="https://raw.githubusercontent.com/Shobhits7/Shobhits7/db3f212050b9aac185b8a986162e8a1171bd384f/github-user-contribution.svg" width="100%">  
+<img src="https://raw.githubusercontent.com/Shobhits7/Shobhits7/db3f212050b9aac185b8a986162e8a1171bd384f/github-user-contribution.svg" width="100%">
+  
+
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhits7" alt="shobhits7" /></a> </p>
 
