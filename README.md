@@ -30,10 +30,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shobhits7&show_icons=true&theme=merko">
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=ShobhitS7&theme=vue-dark&work=work">
-
-<p align="center">  
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=ShobhitS7&theme=vue-dark&layout=compact&work=yesyeshello">  
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=ShobhitS7&theme=merko&work=work">
+ 
   
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
