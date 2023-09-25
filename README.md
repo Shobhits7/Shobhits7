@@ -1,17 +1,11 @@
 <h1 align="center"> Hey there, I'm Shobhit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"><h1>
 
-<h3 align="center">A passionate Python/C/C++ and discord developer from India</h3>
+<h3 align="center">A passionate Ruby on rails, discord & puppet developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
 
 <p align="center"> 
-- 🔭 I’m currently working on https://www.shobhitjain.live
-<p align="center">
-- 🌱 I’m currently learning HTML, CSS, javascript, java
-<p align="center">
-- 👨‍💻 All of my projects are available at https://www.shobhitjain.live
-<p align="center">
-- 💬 Ask me about **Python, Discord.py**
+- 🔭 I’m currently working on https://www.shobhitjain.vercel.app
 <p align="center">
 - 📫 How to reach me **shobjain09@gmail.com**
 </p>
