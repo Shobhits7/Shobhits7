@@ -1,7 +1,5 @@
 <p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there!;I'm+Shobhit+Jain!;I'm+a+Ruby+on+Rails+Developer;I've+worked+on+Puppet+%26+AWS+too!"> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
-
 <p align="center"> 
 - 🔭 I’m currently working on https://www.shobhitjain.me
 </p>
@@ -15,14 +13,7 @@
 
 <p align="center">
  <img align="center" src="https://streak-stats.demolab.com/?user=shobhits7&theme=dark&hide_border=true"></p>
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shobhits7&show_icons=true&theme=merko">
 
-<p align="center">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=ShobhitS7&theme=merko&work=work">
- 
-  
-<p align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
 <!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"> -->
 <!-- <img src="https://raw.githubusercontent.com/Shobhits7/Shobhits7/db3f212050b9aac185b8a986162e8a1171bd384f/github-user-contribution.svg" width="100%"> -->
