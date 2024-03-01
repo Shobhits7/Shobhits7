@@ -1,8 +1,8 @@
-<h1> 
+<p> 
 <center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there%2C+I'm+Shobhit!;I+am+a+Ruby+on+Rails+Developer)](https://shobhitjain.me)
 </center>
-</h1>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
 
