@@ -1,4 +1,4 @@
-<p> <center> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there%2C+I%27m+Shobhit+Jain!;I+am+a+Senior+Ruby+on+Rails+Developer;I+have+worked+on+Puppet+Infrastructure+Management+too!"> </center> </p>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+;I'm+Shobhit+Jain!;I+am+a+Ruby+on+Rails+Developer;I+have+worked+on+Puppet+%26+AWS+too!"> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
 
