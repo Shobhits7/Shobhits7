@@ -26,5 +26,5 @@
  
   
 <p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<img src="https://raw.githubusercontent.com/Shobhits7/Shobhits7/db3f212050b9aac185b8a986162e8a1171bd384f/github-user-contribution.svg" width="100%">
+<!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"> -->
+<!-- <img src="https://raw.githubusercontent.com/Shobhits7/Shobhits7/db3f212050b9aac185b8a986162e8a1171bd384f/github-user-contribution.svg" width="100%"> -->
