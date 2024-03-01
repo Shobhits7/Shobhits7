@@ -1,6 +1,6 @@
 <p> 
 <center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there%2C+I'm+Shobhit!;I+am+a+Ruby+on+Rails+Developer)](https://shobhitjain.me)
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there%2C+I'm+Shobhit+Jain!;I+am+a+Ruby+on+Rails+Developer;I+have+worked+on+Puppet+too!">
 </center>
 </p>
 
