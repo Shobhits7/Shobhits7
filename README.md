@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
 
 <p align="center"> 
-- 🔭 I’m currently working on https://www.shobhitjain.vercel.app
+- 🔭 I’m currently working on https://www.shobhitjain.me
 </p>
 
 <h3 align="center">Connect with me:</h3>
