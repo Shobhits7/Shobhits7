@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhits7&theme=merko" alt="shobhits7" /></p>
+ [ <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhits7&theme=merko" alt="shobhits7" />](https://streak-stats.demolab.com/?user=shobhits7&theme=dark&hide_border=true)</p>
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shobhits7&show_icons=true&theme=merko">
