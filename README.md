@@ -1,5 +1,8 @@
-[![Heading](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Hey+there%2C+I'm+Shobhit!;I+am+a+Ruby+on+Rails+Developer)](https://git.io/typing-svg)
-
+<h1> 
+<center>
+[![Heading](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Hey+there%2C+I'm+Shobhit!;I+am+a+Ruby+on+Rails+Developer)](https://shobhitjain.me)
+</center>
+</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
 
 <p align="center"> 
