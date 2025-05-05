@@ -9,6 +9,6 @@
    <a href="https://discord.gg/adJeGC7VK6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adJeGC7VK6" height="30" width="40" /></a>
 </p>
 <p align="center">
-   <img align="center" src="https://streak-stats.demolab.com/?user=shobhits7&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D>
+   <img align="center" src="https://streak-stats.demolab.com/?user=shobhits7&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D">
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shobhits7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
