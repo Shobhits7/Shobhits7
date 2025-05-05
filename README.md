@@ -1,6 +1,6 @@
 <p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there!;I'm+Shobhit+Jain!;I'm+a+Ruby+on+Rails+Developer;I've+worked+on+Puppet+%26+AWS+too!"> </p>
 <p align="center"> 
-   🔭 I’m currently working on https://www.shobhitjain.me
+   🔭 Find my work on https://www.shobhitjain.in
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
